@@ -1,0 +1,6 @@
+framework module MCOOSSDK {
+  umbrella header "MCOOSSDK.h"
+
+  export *
+  module * { export * }
+}
